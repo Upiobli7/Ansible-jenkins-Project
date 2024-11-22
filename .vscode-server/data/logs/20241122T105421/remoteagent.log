@@ -1,0 +1,11 @@
+2024-11-22 10:54:21.467 [info] 
+
+
+
+
+2024-11-22 10:54:21.491 [info] Extension host agent started.
+2024-11-22 10:54:21.645 [info] Started initializing default profile extensions in extensions installation folder. file:///home/urbain/.vscode-server/extensions
+2024-11-22 10:54:21.695 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/urbain/.vscode-server/extensions
+2024-11-22 10:54:21.729 [info] [127.0.0.1][301f8f73][ManagementConnection] New connection established.
+2024-11-22 10:54:22.305 [info] [127.0.0.1][2bd4c8f0][ExtensionHostConnection] New connection established.
+2024-11-22 10:54:22.317 [info] [127.0.0.1][2bd4c8f0][ExtensionHostConnection] <28950> Launched Extension Host Process.
